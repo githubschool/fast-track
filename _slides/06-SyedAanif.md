@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Software developer in a continuous learning phase!!!
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
