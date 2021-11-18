@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Customise the pics!"
 ---
 
 Scotland FC are going to the World CUP! A new change! 
