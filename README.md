@@ -2,6 +2,7 @@
 
 - Class Date: November 17, 2021
 - Facilitator: @gusshawstewart
+- Participant: Andi
 
 ## Class Resources
 
